@@ -1,2 +1,13 @@
 # Router
-simple router
+
+
+This is the simple router using vanilla JavaScript;
+
+I use webpack for building project;
+
+There are four pages\buttons: default page, login, signup and for 404 error.
+Default page is login and last page just for trying 404 error.
+
+You can try it by yourself [DEMO](https://victoriiaklubchuk.github.io/Router/dist);
+
+
